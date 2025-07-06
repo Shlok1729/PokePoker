@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105449197265",
+    "project_id": "pokepoker-50f8f",
+    "storage_bucket": "pokepoker-50f8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105449197265:android:68b1e0f76f3993ea7c3ff0",
+        "android_client_info": {
+          "package_name": "com.example.pokepoker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_wEcm2V5nVHkZnW6XGezewUJ5YbFIXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
